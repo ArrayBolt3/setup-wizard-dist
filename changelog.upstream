@@ -1,3 +1,21 @@
+commit 9d8c43223e4006d9ea0be15722cbe1a92b317d35
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 14 00:48:28 2025 -0500
+
+    port to package-installed-check
+
+commit 208fd59db05ed3cde90a69d494351f622d700a9f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Nov 14 00:45:19 2025 -0500
+
+    refactoring
+
+commit 4527ef576aac4358347518f6fe76d265a5ddda52
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Oct 29 09:36:41 2025 +0000
+
+    bumped changelog version
+
 commit b2ff109981063bdc1392353e5f9fcfb42e86fc63
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Oct 29 05:34:11 2025 -0400
