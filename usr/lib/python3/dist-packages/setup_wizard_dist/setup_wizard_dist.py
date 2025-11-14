@@ -187,7 +187,7 @@ class setup_wizard_dist(QtWidgets.QWizard):
         self.env = Common.environment
 
         self.user_sysmaint_split_installed = False
-        command = ['/usr/bin/bash', '-c', 'source /usr/libexec/helper-scripts/package_installed_check.bsh; pkg_installed user-sysmaint-split']
+        command = ['/usr/bin/bash', '-c', 'source /usr/libexec/helper-scripts/package_installed_check.sh; pkg_installed user-sysmaint-split']
         if call(command) == 0:
             self.user_sysmaint_split_installed = True
 
